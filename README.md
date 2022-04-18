@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @luishmq
+- 🇧🇷 I’m brazilian
 - 👀 I’m interested in Mobile Programming
 - 🌱 I’m currently learning about Android Development
 - 📝 I'm currently studying on UFPI
