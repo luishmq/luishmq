@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @luishmq
 - 🇧🇷 I’m brazilian
-- 👀 I’m interested in Mobile Programming
-- 🌱 I’m currently learning about Android Development
-- 📝 I'm currently studying on UFPI
-- 💻 Languages and Tools: C//C++//Kotlin//Java
+- 👀 I’m interested in Data Science 
+- 🌱 I’m currently learning about Machine learning 
+- 📝 I'm currently studying at UFPI
+- 💻 Languages and Tools: C//C++//Kotlin//Python
 
 <!---
 luishmq/luishmq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
