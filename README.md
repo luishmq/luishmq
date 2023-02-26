@@ -13,6 +13,7 @@
 
 ![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=luishmq&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luishmq&layout=compact)](https://github.com/luishmq/github-readme-stats)
 
 ## Tecnologias utilizadas:
 
@@ -27,4 +28,4 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luishmq)](https://github.com/luishmq/github-readme-stats)
+
