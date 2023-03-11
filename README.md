@@ -1,6 +1,6 @@
-### Olá! Me chamo Luis Henrique ✋
+### Hi! I'm Luis Henrique 👋
 
-## Atualmente, sou estudante de Ciência da Computação pela UFPI 💻 e faço projetos sobre Data Science e Machine Learning 🤖
+## I’m currently a Computer Science Student at UFPI 💻 and i make Data Science and Machine Learning projects 🤖
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-henrique-miranda-queiroz-218623213/)
@@ -15,7 +15,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luishmq&layout=compact)](https://github.com/luishmq/github-readme-stats)
 
-## Tecnologias utilizadas:
+## Most used technologies:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
