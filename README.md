@@ -1,6 +1,6 @@
-### Hello 👋
+## Hello 👋
 
-Me chamo Luis, estou atualmente cursando Ciência da Computação 💻 na UFPI e meu principal objetivo é trabalhar como Analista ou Cientista de Dados, elaborando análises e previsões através de levantamento de dados e ferramentas de programação, como Python e SQL, visando solucionar problemas de negócio e gerar insights para as empresas. 
+Me chamo Luis, estou atualmente cursando Ciência da Computação 💻 na UFPI e meu principal objetivo é trabalhar como Analista ou Cientista de Dados, elaborando análises e previsões por meio de algoritmos de Machine Learning e ferramentas de programação, como Python e SQL, visando solucionar problemas de negócio e gerar insights para as empresas. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-henrique-miranda-queiroz-218623213/)
 [![GitHub](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/luishmq)
