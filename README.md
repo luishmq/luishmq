@@ -12,6 +12,14 @@ Me chamo Luis, estou atualmente cursando Ciência da Computação 💻 na UFPI e
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luishmq&layout=compact)](https://github.com/luishmq/github-readme-stats)
 
+## Principais Projetos:
+
+### Previsão de Vendas da rede de farmácias Rossmann:
+Projeto de ciência de dados desenvolvido com algoritmos de Machine Learning com o objetivo de prever o valor das vendas das farmácias Rossmann pelas próximas 6 semanas. Foi desenvolvido utilizando a linguagem Python, algoritmos como Random Forest e XGBoost e a visualização prática se dá por meio de um Bot criado no aplicativo Telegram.
+O modelo adotado previu um cenário-base com uma receita bruta consolidada de € 281.1M para as próximas 6 semanas. No pior cenário, a receita bruta consolidada será de € 280.1M, e no melhor cenário, € 282M.
+
+Link para o repositório: https://github.com/luishmq/rossmann_project
+
 ## Tecnologias utilizadas:
 
 <div style="display: inline_block"><br/>
