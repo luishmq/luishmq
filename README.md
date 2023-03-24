@@ -20,6 +20,8 @@ O modelo adotado previu um cenário-base com uma receita bruta consolidada de �
 
 Link para o repositório: https://github.com/luishmq/rossmann_project
 
+Link para o repositório com o portfólio: https://github.com/luishmq/portfolio_projetos
+
 ## Tecnologias utilizadas:
 
 <div style="display: inline_block"><br/>
