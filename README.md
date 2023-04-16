@@ -20,7 +20,7 @@ O modelo adotado previu um cen谩rio-base com uma receita bruta consolidada de 鈧
 
 Link para o reposit贸rio: https://github.com/luishmq/rossmann_project
 
-Link para o reposit贸rio com o portf贸lio: https://github.com/luishmq/portfolio_projetos
+Link para o portf贸lio de projetos: https://github.com/luishmq/portfolio_projetos
 
 ## Tecnologias utilizadas:
 
