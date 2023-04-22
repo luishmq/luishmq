@@ -20,6 +20,12 @@ O modelo adotado previu um cenário-base com uma receita bruta consolidada de �
 
 Link para o repositório: https://github.com/luishmq/rossmann_project
 
+### Previsão de Churn dos Clientes da empresa bancária TopBank: 
+Projeto de ciência de dados desenvolvido com algoritmos de Machine Learning com o objetivo de prever o churn dos clientes de uma empresa bancária e desenvolver estratégias para evitar o fenômeno. Foi desenvolvido utilizando a linguagem Python, algoritmos como Random Forest Classifier e XGBoost Classifier. O modelo adotado resultou em performances excelentes em métricas como o F1_score ( 91% ) e proporcionou a formulação de um plano de ação para resolver o problema do churning com base no envio de cupons de desconto aos clientes de acordo com sua probabilidade de churn e a maximização do ROI ( Return on Investment ). 
+Ao final do projeto, o ROI alcançou, como valor bruto, aproximadamente $ 489070.00, o que representa um ROI de 4891%.
+
+Link para o repositório: https://github.com/luishmq/churn_clients_predict
+
 Link para o portfólio de projetos: https://github.com/luishmq/portfolio_projetos
 
 ## Tecnologias utilizadas:
