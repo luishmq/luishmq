@@ -26,6 +26,11 @@ Ao final do projeto, o ROI alcançou, como valor bruto, aproximadamente $ 489070
 
 Link para o repositório: https://github.com/luishmq/churn_clients_predict
 
+### Desenvolvimento de um Dashboard Gerencial para um Marketplace de restaurantes com o Streamlit: 
+Nesse projeto, os conceitos de Programação em python, manipulação de dados, pensamento estratégico e lógica de negócio, junto com ferramentas de desenvolvimento web como o Streamlit e Github, foram usados para desenvolver um painel gerencial com as principais métricas de uma empresa de marketplace de comida. O resultado final do projeto foi um painel hospedado em um ambiente Cloud que auxilia o CEO nas possíveis tomadas de decisão por meio de insights gerados a partir da análise. O projeto é disponibilizado através de um link. O painel pode ser acessado por qualquer dispositivo conectado na internet. 
+
+Link para o repositório: https://github.com/luishmq/made_in_asia_mktp
+
 Link para o portfólio de projetos: https://github.com/luishmq/portfolio_projetos
 
 ## Tecnologias utilizadas:
