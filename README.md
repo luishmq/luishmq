@@ -1,6 +1,6 @@
 ## Hello 👋
 
-Me chamo Luis, estou atualmente cursando Ciência da Computação 💻 na UFPI e meu principal objetivo é trabalhar como Analista ou Cientista de Dados, elaborando análises e previsões por meio de algoritmos de Machine Learning e ferramentas de programação, como Python e SQL, visando solucionar problemas de negócio e gerar insights para as empresas. 
+My name is Luis and I'm currently studying Computer Science at UFPI and my main objective is to work as a Data Analyst or Scientist, developing analyzes and predictions using Machine Learning algorithms and programming tools, such as Python and SQL, in order to solve business problems and generate insights for companies. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-henrique-miranda-queiroz-218623213/)
 [![GitHub](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/luishmq)
@@ -12,28 +12,26 @@ Me chamo Luis, estou atualmente cursando Ciência da Computação 💻 na UFPI e
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luishmq&layout=compact)](https://github.com/luishmq/github-readme-stats)
 
-## Principais Projetos:
+## Main projects:
 
-### Previsão de Vendas da rede de farmácias Rossmann:
-Projeto de ciência de dados desenvolvido com algoritmos de Machine Learning com o objetivo de prever o valor das vendas das farmácias Rossmann pelas próximas 6 semanas. Foi desenvolvido utilizando a linguagem Python, algoritmos como Random Forest e XGBoost e a visualização prática se dá por meio de um Bot criado no aplicativo Telegram.
-O modelo adotado previu um cenário-base com uma receita bruta consolidada de € 281.1M para as próximas 6 semanas. No pior cenário, a receita bruta consolidada será de € 280.1M, e no melhor cenário, € 282M.
+### Rossmann Pharmacy Network Sales Forecast:
+Data science project developed with Machine Learning algorithms in order to predict the sales value of Rossmann pharmacies for the next 6 weeks. It was developed using the Python language, algorithms such as Random Forest and XGBoost and the practical visualization takes place through a Bot created in the Telegram application. The adopted model predicted a baseline scenario with consolidated gross revenue of €281.1M for the next 6 weeks. In the worst case, consolidated gross revenues will be €280.1M, and in the best case, €282M.
 
-Link para o repositório: https://github.com/luishmq/rossmann_project
+Repository link: https://github.com/luishmq/rossmann_project
 
-### Previsão de Churn dos Clientes da empresa bancária TopBank: 
-Projeto de ciência de dados desenvolvido com algoritmos de Machine Learning com o objetivo de prever o churn dos clientes de uma empresa bancária e desenvolver estratégias para evitar o fenômeno. Foi desenvolvido utilizando a linguagem Python, algoritmos como Random Forest Classifier e XGBoost Classifier. O modelo adotado resultou em performances excelentes em métricas como o F1_score ( 91% ) e proporcionou a formulação de um plano de ação para resolver o problema do churning com base no envio de cupons de desconto aos clientes de acordo com sua probabilidade de churn e a maximização do ROI ( Return on Investment ). 
-Ao final do projeto, o ROI alcançou, como valor bruto, aproximadamente $ 489070.00, o que representa um ROI de 4891%.
+### Churn Forecast of Customers of TopBank Banking Company: 
+Data science project developed with Machine Learning algorithms in order to predict the churn of customers of a banking company and develop strategies to avoid the phenomenon. It was developed using the Python language, algorithms such as Random Forest Classifier and XGBoost Classifier. The adopted model resulted in excellent performances in metrics such as the F1_score ( 91%) and provided the formulation of an action plan to solve the churning problem based on sending discount coupons to customers according to their churn probability and the ROI (Return on Investment) maximization. At the end of the project, the ROI reached, as a gross amount, approximately $489070.00, which represents an ROI of 4891%.
 
-Link para o repositório: https://github.com/luishmq/churn_clients_predict
+Repository link: https://github.com/luishmq/churn_clients_predict
 
-### Desenvolvimento de um Dashboard Gerencial para um Marketplace de restaurantes com o Streamlit: 
-Nesse projeto, os conceitos de Programação em python, manipulação de dados, pensamento estratégico e lógica de negócio, junto com ferramentas de desenvolvimento web como o Streamlit e Github, foram usados para desenvolver um painel gerencial com as principais métricas de uma empresa de marketplace de comida. O resultado final do projeto foi um painel hospedado em um ambiente Cloud que auxilia o CEO nas possíveis tomadas de decisão por meio de insights gerados a partir da análise. O projeto é disponibilizado através de um link. O painel pode ser acessado por qualquer dispositivo conectado na internet. 
+### Development of a Management Dashboard for a Restaurant Marketplace with Streamlit: 
+In this project, the concepts of python programming, data manipulation, strategic thinking and business logic, along with web development tools such as Streamlit and Github, were used to develop a management panel with the main metrics of a marketplace company food. The end result of the project was a panel hosted in a Cloud environment that assists the CEO in possible decision-making through insights generated from the analysis. The project is available through a link. The dashboard can be accessed from any device connected to the internet.
 
-Link para o repositório: https://github.com/luishmq/made_in_asia_mktp
+Repository link: https://github.com/luishmq/made_in_asia_mktp
 
-Link para o portfólio de projetos: https://github.com/luishmq/portfolio_projetos
+Portfolio link: https://github.com/luishmq/portfolio_projetos
 
-## Tecnologias utilizadas:
+## Technological tools used:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
