@@ -12,7 +12,7 @@ My name is Luis and I'm currently studying Computer Science at UFPI and my main 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luishmq&layout=compact)](https://github.com/luishmq/github-readme-stats)
 
-## Main projects:
+## Main projects :
 
 ### Rossmann Pharmacy Network Sales Forecast:
 Data science project developed with Machine Learning algorithms in order to predict the sales value of Rossmann pharmacies for the next 6 weeks. It was developed using the Python language, algorithms such as Random Forest and XGBoost and the practical visualization takes place through a Bot created in the Telegram application. The adopted model predicted a baseline scenario with consolidated gross revenue of €281.1M for the next 6 weeks. In the worst case, consolidated gross revenues will be €280.1M, and in the best case, €282M.
