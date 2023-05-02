@@ -29,7 +29,7 @@ In this project, the concepts of python programming, data manipulation, strategi
 
 Repository link: https://github.com/luishmq/made_in_asia_mktp
 
-Portfolio link: https://github.com/luishmq/portfolio_projetos
+Portfolio link: https://luishmq.github.io/portfolio_projetos/
 
 ## Technological tools used:
 
