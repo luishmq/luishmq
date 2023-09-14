@@ -26,6 +26,11 @@ Data science project developed with Machine Learning algorithms in order to pred
 
 Repository link: https://github.com/luishmq/churn_clients_predict
 
+### Predicting the price elasticity of e-commerce products and visualizing possible scenarios in Streamlit: 
+The idea of ​​the project is to study the concept of price elasticity and, therefore, the deep relationship between demand and product prices. In this sense, a Machine Learning model related to linear regression was developed, capable of predicting how much it is acceptable to increase/decrease the value of products, impacting demand, to try to find out if we could increase revenue. Visualization of possible scenarios after a discount or price increase can be viewed via Streamlit.
+
+Repository link: https://github.com/luishmq/elastic_preco_project
+
 ### Development of a Management Dashboard for a Restaurant Marketplace with Streamlit: 
 In this project, the concepts of python programming, data manipulation, strategic thinking and business logic, along with web development tools such as Streamlit and Github, were used to develop a management panel with the main metrics of a marketplace company food. The end result of the project was a panel hosted in a Cloud environment that assists the CEO in possible decision-making through insights generated from the analysis. The project is available through a link. The dashboard can be accessed from any device connected to the internet.
 
