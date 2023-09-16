@@ -31,6 +31,11 @@ The idea of ​​the project is to study the concept of price elasticity and, t
 
 Repository link: https://github.com/luishmq/elastic_preco_project
 
+### VIP Program - Customer Segmentation using Clustering Techniques: 
+Project carried out with the focus on determining the group of customers most financially relevant for an e-commerce in accordance with the RFM model definitions. In this sense, several Clustering techniques in Machine Learning were used. The data products developed were a list with data from all customers and their clusters, a report with questions addressed by the marketing team and a Metabase dashboard fed with data updated through AWS services. The developed solution presents a group, made up of 7.2% of the customer base, which holds 40.20% of the company's total revenue, and an average revenue of $15,332.
+
+Repository link: https://github.com/luishmq/customers_clustering_project
+
 ### Development of a Management Dashboard for a Restaurant Marketplace with Streamlit: 
 In this project, the concepts of python programming, data manipulation, strategic thinking and business logic, along with web development tools such as Streamlit and Github, were used to develop a management panel with the main metrics of a marketplace company food. The end result of the project was a panel hosted in a Cloud environment that assists the CEO in possible decision-making through insights generated from the analysis. The project is available through a link. The dashboard can be accessed from any device connected to the internet.
 
