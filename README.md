@@ -43,7 +43,7 @@ Repository link: https://github.com/luishmq/made_in_asia_mktp
 
 ## Posts:
 
-https://medium.com/@luishmq/p-valor-de-uma-forma-gen%C3%A9rica-%C3%A9-uma-medida-estat%C3%ADstica-que-busca-avaliar-se-um-resultado-de-um-d1ba7f0a872b
+[P-valor](https://medium.com/@luishmq/p-valor-de-uma-forma-gen%C3%A9rica-%C3%A9-uma-medida-estat%C3%ADstica-que-busca-avaliar-se-um-resultado-de-um-d1ba7f0a872b): O que é e sua importância na Ciência de Dados.
 
 ## Technological tools used:
 
