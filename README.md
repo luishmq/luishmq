@@ -14,36 +14,36 @@ My name is Luis and I'm currently studying Computer Science at UFPI and my main 
 
 ## Main projects and Portfolio:
 
-### Portfolio [link](https://luishmq.github.io/portfolio_projetos/)
+### [Portfolio link](https://luishmq.github.io/portfolio_projetos/)
 
 ### Rossmann Pharmacy Network Sales Forecast 💵:
 Data science project developed with Machine Learning algorithms in order to predict the sales value of Rossmann pharmacies for the next 6 weeks. It was developed using the Python language, algorithms such as Random Forest and XGBoost and the practical visualization takes place through a Bot created in the Telegram application. The adopted model predicted a baseline scenario with consolidated gross revenue of €281.1M for the next 6 weeks. In the worst case, consolidated gross revenues will be €280.1M, and in the best case, €282M.
 
-#### Rossmann repository [link](https://github.com/luishmq/rossmann_project)
+#### [Rossmann repository link](https://github.com/luishmq/rossmann_project)
 
 ### Churn Forecast of Customers of TopBank Banking Company 🔥: 
 Data science project developed with Machine Learning algorithms in order to predict the churn of customers of a banking company and develop strategies to avoid the phenomenon. It was developed using the Python language, algorithms such as Random Forest Classifier and XGBoost Classifier. The adopted model resulted in excellent performances in metrics such as the F1_score ( 91%) and provided the formulation of an action plan to solve the churning problem based on sending discount coupons to customers according to their churn probability and the ROI (Return on Investment) maximization. At the end of the project, the ROI reached, as a gross amount, approximately $489070.00, which represents an ROI of 4891%.
 
-#### Churn repository [link](https://github.com/luishmq/churn_clients_predict)
+#### [Churn repository link](https://github.com/luishmq/churn_clients_predict)
 
 ### Predicting the price elasticity of e-commerce products and visualizing possible scenarios in Streamlit 📈: 
 The idea of ​​the project is to study the concept of price elasticity and, therefore, the deep relationship between demand and product prices. In this sense, a Machine Learning model related to linear regression was developed, capable of predicting how much it is acceptable to increase/decrease the value of products, impacting demand, to try to find out if we could increase revenue. Visualization of possible scenarios after a discount or price increase can be viewed via Streamlit.
 
-#### Price Elasticity repository [link](https://github.com/luishmq/elastic_preco_project)
+#### [Price Elasticity repository link](https://github.com/luishmq/elastic_preco_project)
 
 ### VIP Program - Customer Segmentation using Clustering Techniques 🧍🏻: 
 Project carried out with the focus on determining the group of customers most financially relevant for an e-commerce in accordance with the RFM model definitions. In this sense, several Clustering techniques in Machine Learning were used. The data products developed were a list with data from all customers and their clusters, a report with questions addressed by the marketing team and a Metabase dashboard fed with data updated through AWS services. The developed solution presents a group, made up of 7.2% of the customer base, which holds 40.20% of the company's total revenue, and an average revenue of $15,332.
 
-#### VIP repository [link](https://github.com/luishmq/customers_clustering_project)
+#### [VIP repository link](https://github.com/luishmq/customers_clustering_project)
 
 ### Development of a Management Dashboard for a Restaurant Marketplace with Streamlit 🍴: 
 In this project, the concepts of python programming, data manipulation, strategic thinking and business logic, along with web development tools such as Streamlit and Github, were used to develop a management panel with the main metrics of a marketplace company food. The end result of the project was a panel hosted in a Cloud environment that assists the CEO in possible decision-making through insights generated from the analysis. The project is available through a link. The dashboard can be accessed from any device connected to the internet.
 
-#### Dashboard repository [link](https://github.com/luishmq/made_in_asia_mktp)
+#### [Dashboard repository link](https://github.com/luishmq/made_in_asia_mktp)
 
 ## Latests Posts:
 
-- [P-valor: O que é e sua importância na Ciência de Dados](https://medium.com/@luishmq/p-valor-de-uma-forma-gen%C3%A9rica-%C3%A9-uma-medida-estat%C3%ADstica-que-busca-avaliar-se-um-resultado-de-um-d1ba7f0a872b)
+- ### [P-valor: O que é e sua importância na Ciência de Dados](https://medium.com/@luishmq/p-valor-de-uma-forma-gen%C3%A9rica-%C3%A9-uma-medida-estat%C3%ADstica-que-busca-avaliar-se-um-resultado-de-um-d1ba7f0a872b)
 
 ## Technological tools used:
 
