@@ -36,6 +36,11 @@ Project carried out with the focus on determining the group of customers most fi
 
 #### [VIP repository link](https://github.com/luishmq/customers_clustering_project)
 
+### Recommendation System Project 💡: 
+Project with the objective of building a book recommendation system based on the behavior and preferences of each user with regard to purchase history and interactions with books using recommendation and Machine Leaning techniques, such as NearestNeighbors and Cossine Similarity. The final model chosen was the cosine similarity technique, as it is simpler (Does not require training) and presents high computational efficiency. The Preview of recommended book names and images can be seen via Streamlit.
+
+#### [Recommendation System Project repository link](https://github.com/luishmq/recommendation_system)
+
 ### Development of a Management Dashboard for a Restaurant Marketplace with Streamlit 🍴: 
 In this project, the concepts of python programming, data manipulation, strategic thinking and business logic, along with web development tools such as Streamlit and Github, were used to develop a management panel with the main metrics of a marketplace company food. The end result of the project was a panel hosted in a Cloud environment that assists the CEO in possible decision-making through insights generated from the analysis. The project is available through a link. The dashboard can be accessed from any device connected to the internet.
 
