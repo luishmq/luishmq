@@ -22,7 +22,7 @@ Data science project developed with Machine Learning algorithms in order to pred
 ### [Rossmann repository link](https://github.com/luishmq/rossmann_project)
 
 ### Churn Forecast of Customers of TopBank Banking Company 🔥: 
-Data science project developed with Machine Learning algorithms in order to predict the churn of customers of a banking company and develop strategies to avoid the phenomenon. It was developed using the Python language, algorithms such as Random Forest Classifier and XGBoost Classifier. The adopted model resulted in excellent performances in metrics such as the F1_score ( 91%) and provided the formulation of an action plan to solve the churning problem based on sending discount coupons to customers according to their churn probability and the ROI (Return on Investment) maximization. At the end of the project, the ROI reached, as a gross amount, approximately $489070.00, which represents an ROI of 4891%.
+Data science project developed with Machine Learning algorithms in order to predict the churn of customers of a banking company and develop strategies to avoid the phenomenon. It was developed using the Python language, algorithms such as Random Forest Classifier and XGBoost Classifier. The adopted model resulted in excellent performances in metrics such as the F1_score ( 85,1% ) and provided the formulation of an action plan to solve the churning problem based on sending discount coupons to customers according to their churn probability and the ROI (Return on Investment) maximization. At the end of the project, we achieve the final profit, as the average of the analyzed scenarios, of R$ 2.785.202,00, which represents an ROI of 361%.
 
 ### [Churn repository link](https://github.com/luishmq/churn_clients_predict)
 
