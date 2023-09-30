@@ -37,7 +37,7 @@ Project carried out with the focus on determining the group of customers most fi
 ### [VIP repository link](https://github.com/luishmq/customers_clustering_project)
 
 ### Recommendation System Project 💡: 
-Project with the objective of building a book recommendation system based on the behavior and preferences of each user with regard to purchase history and interactions with books using recommendation and Machine Leaning techniques, such as NearestNeighbors and Cossine Similarity. The final model chosen was the cosine similarity technique, as it is simpler (Does not require training) and presents high computational efficiency. The Preview of recommended book names and images can be seen via Streamlit.
+Project with the objective of building a book recommendation system based on the behavior and preferences of each user with regard to purchase history and interactions with books. Recommendation and Machine Leaning techniques were used, such as NearestNeighbors and Cossine Similarity. The final model chosen was the cosine similarity technique, as it is simpler (does not require training) and presents high computational efficiency. Preview of recommended book names and images can be seen via Streamlit.
 
 ### [Recommendation System Project repository link](https://github.com/luishmq/recommendation_system)
 
