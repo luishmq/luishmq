@@ -21,7 +21,12 @@ Data science project developed with Machine Learning algorithms in order to pred
 
 ### [Rossmann repository link](https://github.com/luishmq/rossmann_project)
 
-### Churn Forecast of Customers of TopBank Banking Company 🔥: 
+### Customer Ranking for an Insurance Company 🚙:
+Project designed with the aim of helping a health insurance company rank the main potential customers to buy a new type of insurance for the company (car) and, therefore, carry out a Cross-Sell. To this end, Machine Learning and Learn to Rank techniques were used, so that it is possible to consult a list of customers most likely to purchase car insurance via Google Sheets, facilitating the company's communication strategy and optimizing its business. Finally, it was decided to make calls only to a part of the customer base with the highest purchasing propensity (46%) and the total profit was R$3.878.010,00, which represents a solution 1.44 times better than calling to 100% of the base.
+
+### [Health Insurance repository link](https://github.com/luishmq/insurance_cross_sell)
+
+### Churn Forecast of Customers of a Banking Company 🔥: 
 Data science project developed with Machine Learning algorithms in order to predict the churn of customers of a banking company and develop strategies to avoid the phenomenon. It was developed using the Python language, algorithms such as Random Forest Classifier and XGBoost Classifier. The adopted model resulted in excellent performances in metrics such as the F1_score ( 85,1% ) and provided the formulation of an action plan to solve the churning problem based on sending discount coupons to customers according to their churn probability and the ROI (Return on Investment) maximization. At the end of the project, we achieve the final profit, as the average of the analyzed scenarios, of R$ 2.785.202,00, which represents an ROI of 361%.
 
 ### [Churn repository link](https://github.com/luishmq/churn_clients_predict)
