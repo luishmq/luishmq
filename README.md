@@ -31,6 +31,11 @@ Data science project developed with Machine Learning algorithms in order to pred
 
 ### [Churn repository link](https://github.com/luishmq/churn_clients_predict)
 
+### Sentiment Analysis: Detecting Sarcastic News Headlines 📰: 
+In this project, a communications company named BuzzFeed is looking for ways to diagnose sarcasm in its news headlines, in order to avoid possible misunderstandings among readers in some sarcastic headlines. To achieve the objective, Natural Language Processing (NLP) and Machine Learning techniques were used, such as Word2Vec Embedding and Bidirectional LSTM Recurrent Neural Networks. The final model chosen presented excellent metrics, such as accuracy and AUC of 83%. Furthermore, the query to detect sarcastic titles can be done via Streamlit.
+
+### [Sarcastic detection repository link](https://github.com/luishmq/sarcastic_detection)
+
 ### Predicting the price elasticity of e-commerce products and visualizing possible scenarios in Streamlit 📈: 
 The idea of ​​the project is to study the concept of price elasticity and, therefore, the deep relationship between demand and product prices. In this sense, a Machine Learning model related to linear regression was developed, capable of predicting how much it is acceptable to increase/decrease the value of products, impacting demand, to try to find out if we could increase revenue. Visualization of possible scenarios after a discount or price increase can be viewed via Streamlit.
 
