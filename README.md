@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Luis and I'm currently studying Computer Science at UFPI and my main objective is to work as a Data Analyst or Scientist, developing analyzes and predictions using Machine Learning algorithms and programming tools, such as Python and SQL, in order to solve business problems and generate insights for companies. At the moment, i'm Machine Learning Intern at SantoDigital.
+My name is Luis and I'm currently studying Computer Science at UFPI and my main objective is to work developing analyzes and predictions using Machine Learning algorithms and programming tools, such as Python and SQL, in order to solve business problems and generate insights for companies. At the moment, i'm Machine Learning Intern at SantoDigital.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-henrique-miranda-queiroz-218623213/)
 [![GitHub](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/luishmq)
