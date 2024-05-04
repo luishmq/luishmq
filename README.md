@@ -22,7 +22,7 @@
 ### [Rossmann repository link](https://github.com/luishmq/rossmann_project)
 
 ### Customer Ranking for an Insurance Company 🚙:
-Project designed with the aim of helping a health insurance company rank the main potential customers to buy a new type of insurance for the company (car) and, therefore, carry out a Cross-Sell. To this end, Machine Learning and Learn to Rank techniques were used, so that it is possible to consult a list of customers most likely to purchase car insurance via Google Sheets, facilitating the company's communication strategy and optimizing its business. Finally, it was decided to make calls only to a part of the customer base with the highest purchasing propensity (46%) and the total profit was R$3.878.010,00, which represents a solution 1.44 times better than calling to 100% of the base.
+#### Project designed with the aim of helping a health insurance company rank the main potential customers to buy a new type of insurance for the company (car) and, therefore, carry out a Cross-Sell. To this end, Machine Learning and Learn to Rank techniques were used, so that it is possible to consult a list of customers most likely to purchase car insurance via Google Sheets, facilitating the company's communication strategy and optimizing its business. Finally, it was decided to make calls only to a part of the customer base with the highest purchasing propensity (46%) and the total profit was R$3.878.010,00, which represents a solution 1.44 times better than calling to 100% of the base.
 
 ### [Health Insurance repository link](https://github.com/luishmq/insurance_cross_sell)
 
