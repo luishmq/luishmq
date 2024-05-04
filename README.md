@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Luis and I'm currently studying Computer Science at UFPI and my main objective is to work developing analyzes and predictions using Machine Learning algorithms and programming tools, such as Python and SQL, in order to solve business problems and generate insights for companies. At the moment, i'm Machine Learning Intern at SantoDigital.
+### My name is Luis and I'm currently studying Computer Science at UFPI and my main objective is to work developing analyzes and predictions using Machine Learning algorithms and programming tools, such as Python and SQL, in order to solve business problems and generate insights for companies. At the moment, i'm Machine Learning Engineer Intern at SantoDigital.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-henrique-miranda-queiroz-218623213/)
 [![GitHub](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/luishmq)
@@ -17,7 +17,7 @@ My name is Luis and I'm currently studying Computer Science at UFPI and my main 
 ## [Portfolio link](https://luishmq.github.io/portfolio_projetos/)
 
 ### Rossmann Pharmacy Network Sales Forecast 💵:
-Data science project developed with Machine Learning algorithms in order to predict the sales value of Rossmann pharmacies for the next 6 weeks. It was developed using the Python language, algorithms such as Random Forest and XGBoost and the practical visualization takes place through a Bot created in the Telegram application. The adopted model predicted a baseline scenario with consolidated gross revenue of €281.1M for the next 6 weeks. In the worst case, consolidated gross revenues will be €280.1M, and in the best case, €282M.
+#### Data science project developed with Machine Learning algorithms in order to predict the sales value of Rossmann pharmacies for the next 6 weeks. It was developed using the Python language, algorithms such as Random Forest and XGBoost and the practical visualization takes place through a Bot created in the Telegram application. The adopted model predicted a baseline scenario with consolidated gross revenue of €281.1M for the next 6 weeks. In the worst case, consolidated gross revenues will be €280.1M, and in the best case, €282M.
 
 ### [Rossmann repository link](https://github.com/luishmq/rossmann_project)
 
