@@ -12,6 +12,13 @@ My name is Luis, and I am currently studying Computer Science at UFPI. My main o
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luishmq&layout=compact)](https://github.com/luishmq/github-readme-stats)
 
+## Google Cloud Platform Certifications:
+
+<div style="display: flex; gap: 10px;">
+  <img title="Google Cloud Digital Leader" height="150" src="cloud-digital-leader-certification.png">
+  <img title="Google Associate Cloud Engineer" height="150" src="associate-cloud-engineer-certification.png">
+</div>
+
 ## Main projects and Portfolio:
 
 ## [Portfolio link](https://luishmq.github.io/portfolio_projetos/)
