@@ -17,7 +17,8 @@ My name is Luis, and I am currently studying Computer Science at UFPI. My main o
 <div style="display: flex; gap: 10px;">
   <img title="Google Cloud Digital Leader" height="150" src="cloud-digital-leader-certification.png">
   <img title="Google Associate Cloud Engineer" height="150" src="associate-cloud-engineer-certification.png">
-  <img title="Google Associate Cloud Engineer" height="150" src="professional-machine-learning-engineer-certificatio.png">
+  <img title="Google Professional Machine Learning Engineer" height="150" src="professional-machine-learning-engineer-certificatio.png">
+  <img title="Google Professional Cloud Architect" height="150" src="professional-cloud-architect-certification.png">
 </div>
 
 ## Main projects and Portfolio:
