@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Luis, and I am currently studying Computer Science at UFPI. My main objective is to develop analyses and predictions using Machine Learning algorithms and programming tools, such as Python and SQL, to solve business problems and generate insights for companies. At the moment, I am a Machine Learning Engineer at SantoDigital.
+My name is Luis, and I am currently studying Computer Science at UFPI. My main objective is to develop analyses and predictions using Machine Learning algorithms and programming tools, such as Python and SQL, to solve business problems and generate insights for companies. At the moment, I am a Machine Learning Engineer at SouthSystem.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-henrique-miranda-queiroz-218623213/)
 [![GitHub](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://github.com/luishmq)
