@@ -21,6 +21,11 @@ My name is Luis, and I am currently studying Computer Science at UFPI. My main o
   <img title="Google Professional Cloud Architect" height="150" src="professional-cloud-architect-certification.png">
 </div>
 
+## Amazon Web Services Certifications
+<div style="display: flex; gap: 10px;">
+  <img title="AWS Certified AI Practitioner" height="150" src="aws_ia.png">
+</div>
+
 ## Main projects and Portfolio:
 
 ## [Portfolio link](https://luishmq.github.io/portfolio_projetos/)
