@@ -8,10 +8,6 @@ My name is Luis, and I am currently studying Computer Science at UFPI. My main o
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luis_hmq/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/luishmq)
 
-![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=luishmq&show_icons=true&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luishmq&layout=compact)](https://github.com/luishmq/github-readme-stats)
-
 ## Google Cloud Platform Certifications
 
 <div style="display: flex; gap: 10px;">
@@ -24,6 +20,7 @@ My name is Luis, and I am currently studying Computer Science at UFPI. My main o
 ## Amazon Web Services Certifications
 <div style="display: flex; gap: 10px;">
   <img title="AWS Certified AI Practitioner" height="150" src="aws_ia.png">
+  <img title="AWS Certified Generative AI Developer - Professional Early Adopter" height="150" src="aws-certified-generative-ai-developer-professional-.png">
 </div>
 
 ## Main projects and Portfolio:
